@@ -1,4 +1,4 @@
-﻿<Page xmlns:Gauges="using:DevExpress.UI.Xaml.Gauges" 
+<Page xmlns:Gauges="using:DevExpress.UI.Xaml.Gauges" 
     x:Class="LinearGaugeLesson.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
